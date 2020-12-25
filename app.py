@@ -16,5 +16,5 @@ question=input("--- " + answer + " ---" " Do you shure? ");
 time.sleep(2);
 print("Okey");
 
-print("END");
+print("The END");
 
