@@ -8,8 +8,10 @@ time.sleep(1);
 print('*****');
 time.sleep(1);
 
-input(name + ", how are you?");
+answer=input(name + ", how are you? ");
 
 time.sleep(1);
-print("THE END");
+question=input("--- " + answer + " ---" " Do you shure? ");
+time.sleep(2);
+print("Okey");
 
