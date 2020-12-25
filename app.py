@@ -11,5 +11,5 @@ time.sleep(1);
 input(name + ", how are you?");
 
 time.sleep(1);
-print("THE END");
+print("END");
 
